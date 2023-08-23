@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ."
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@nghiavuive/lunar_date_vi": "^2.0.1-beta.3"
+    "@nghiavuive/lunar_date_vi": "^2.0.1-beta.4"
   }
 }
