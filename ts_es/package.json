@@ -11,7 +11,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@nghiavuive/lunar_date_vi": "^2.0.1-beta.3",
+    "@nghiavuive/lunar_date_vi": "^2.0.1-beta.4",
     "typescript": "^5.1.6"
   }
 }
